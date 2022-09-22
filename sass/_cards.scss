@@ -1,0 +1,52 @@
+#cardsContainer {
+    max-width: 992px;
+}
+/* Cards */
+.chrome_browser {
+    width: 240px!important;
+    height: 330px!important;
+
+    & div:first-child img {
+        height: 90px;
+    }
+
+    & .btn {
+        width: 90%;
+        border-radius: 3px!important;
+    }
+}
+
+.firefox_browser {
+    width: 240px!important;
+    height: 330px!important;
+
+    & div:first-child img {
+        height: 90px;
+    }
+
+    & .btn {
+        width: 90%;
+        border-radius: 3px!important;
+    }
+}
+
+.opera_browser {
+    width: 240px!important;
+    height: 330px!important;
+
+    & div:first-child img {
+        height: 90px;
+    }
+
+    & .btn {
+        width: 90%;
+        border-radius: 3px!important;
+    }
+}
+
+.dotted-line {
+    width: 240px;
+    height: 3.08px;
+    background-image: url('../img/bg-dots.svg');
+    background-size: cover;
+}
