@@ -16,6 +16,7 @@ Ja que la següent instrocció **NO** és visualitzava bé fent un *@import* al 
 Més info: 
 
 https://lenguajejs.com/javascript/peticiones-http/cors/
+
 https://stackoverflow.com/questions/52919331/access-to-script-at-from-origin-null-has-been-blocked-by-cors-policy
 
 
