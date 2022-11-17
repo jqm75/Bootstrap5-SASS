@@ -7,7 +7,7 @@ Per veure bé, el web. S'ha d'executar des d'un IDE, per exemple VSC amb Live Se
 ```
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-qFsv4wd3fI60fwah7sOZ/L3f6D0lL9IC0+E1gFH88n0=" crossorigin="anonymous"></script>
 ```
-Ja que la següent instrocció **NO** és visualitzava bé fent un *@import* al fitxer de SASS.
+Ja que la següent instrucció **NO** és visualitzava bé fent un *@import* al fitxer de SASS.
 
 ```
 @import "../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js
